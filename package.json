@@ -17,7 +17,7 @@
   "license": "ISC",
   "description": "sula-md pair",
   "dependencies": {
-    "@whiskeysockets/baileys": "6.7.17",
+    "@whiskeysockets/baileys": "^v7.0.0-rc.3",
     "qrcode": "^1.5.4",
     "awesome-phonenumber": "7.2.0",
     "pino": "9.5.0",
